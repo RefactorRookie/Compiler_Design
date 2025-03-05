@@ -1,13 +1,6 @@
 # Compiler_Design_Lab
-A program to check whether a user-given identifier is valid or not. Check program with the following inputs:
-Sample input:
-abcd#
-_geh
-cc_12
-1pqr
-
-Sample Output:
-Invalid
-Valid
-Valid
-Invalid
+Introduction to Compilers. Lexical analyzer, Regular expression, Non-deterministic finite automata and
+deterministic finite automata, Context free grammar, Ambiguous grammar, Parsing techniques, Syntax directed
+translation, type checking. Intermediate code, Symbol table, Data structure for symbol table, Run time storage
+administration, Error detection and recovery, code optimization, code generation.Use of tools - LEX and
+YACC.Design of a compiler for a subset of a programming language.
